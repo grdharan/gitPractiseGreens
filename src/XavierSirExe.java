@@ -9,9 +9,9 @@ public class XavierSirExe {
 		
 		XavierSirExe exe1=new XavierSirExe();
 		exe1.leftStarTriangle();
-//		exe1.leftNumTriangle();
-//		exe1.numRev();
-//		exe1.letterCount();
+		exe1.leftNumTriangle();
+		exe1.numRev();
+		exe1.letterCount();
 
 	}
 	
